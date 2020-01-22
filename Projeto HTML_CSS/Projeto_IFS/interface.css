@@ -1,0 +1,44 @@
+h1{
+	color: #7B68EE;
+	font-family: arial;
+	text-align: center;
+	font-size: 18px;
+}
+
+body{
+	background: #A8FCED;
+	
+	
+}
+
+ul.fonte{
+	font-size: 13px;
+	text-align: justify;
+	color: Black;
+		
+}
+
+p.fonte1{
+	font-size: 15px;
+	font-family: arial;
+	text-align: center;
+	color: black;
+	
+}
+
+p.imagem_1{
+	text-align: right;
+	top: 50%;
+	height: 200px;
+	margin-top: -20px;
+	
+}
+
+p.imagem_2{
+width:262px; 
+height:200px; 
+float: right;
+margin-top: 0px;
+margin-right: 0px
+
+}

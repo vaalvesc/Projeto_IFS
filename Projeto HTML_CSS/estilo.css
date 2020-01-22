@@ -1,0 +1,38 @@
+h1{
+	color: #B22222;
+	font-family: arial;
+	text-align: center;
+	font-size: 48px;
+}
+
+body{
+	background: #CD853F;
+	
+	
+}
+
+p{
+	font-size: 17px;
+	text-align: justify;
+	color: #FFFF00;
+	
+}
+
+p.fonte1{
+	font-size: 20px;
+	text-align: center;
+	color: #FFFF00;
+	
+}
+
+p.fonte2{
+	font-size: 13px;
+	text-align: center;
+	color: #FFFF00;
+	
+}
+
+p.imagemcentralizada{
+	text-align: center;
+	
+}
